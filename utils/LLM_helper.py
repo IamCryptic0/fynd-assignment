@@ -1,10 +1,16 @@
 import google.generativeai as genai
 import os
 from dotenv import load_dotenv
+import streamlit as st
 load_dotenv(dotenv_path=".env")
 load_dotenv()
 
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+GEMINI_API_KEY = (
+    st.secrets.get("GEMINI_API_KEY")
+    if "GEMINI_API_KEY" in st.secrets
+    else os.getenv("GEMINI_API_KEY")
+)
+genai.configure(api_key=GEMINI_API_KEY)
 
 def generate_user_response(review_text, rating):
 
