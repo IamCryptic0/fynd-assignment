@@ -1,0 +1,41 @@
+timestamp,rating,review,ai_response,summary,timestamp_dt,recommended_action
+2025-12-15 06:53:37 UTC,3,Overall fun product but could be improved.,Thank you for your feedback! We're glad you're enjoying the product and appreciate you pointing out areas for improvement; we'll definitely take that into consideration.,The customer enjoyed the product but sees room for improvement.,,"Investigate specific areas for improvement.
+Gather more detailed user feedback on pain points.
+Prioritize and address key issues identified."
+"12:26 PM, 15/12/2025",4,very well made.,Thank you for your positive feedback! We're so glad to hear you're happy with the quality of our product.,The product is of high quality craftsmanship.,,"Monitor similar reviews for recurring themes.
+Share the positive feedback with the manufacturing team.
+Investigate what aspects of the product are contributing to the perception of quality."
+"12:26 PM, 15/12/2025",5,really good place. i enjoyed my time.,Thank you so much for your positive review! We're thrilled to hear you enjoyed your time on our platform and had a good experience.,The customer enjoyed their time at this really good place.,,"Monitor sentiment for similar positive reviews.
+Share review with the team to boost morale.
+Consider featuring the review in marketing materials."
+"12:27:58 PM, 15/12/2025",4,really good place,Thank you for the positive review! We're delighted to hear you had a good experience with us.,The customer found the place to be highly satisfactory.,,"Monitor sentiment for similar positive reviews.
+Investigate what aspects of the place customers find appealing.
+Share the review with relevant teams."
+"12:29:49, 15/12/2025",3,really good place for me.,Thank you for your feedback! We're happy to hear you're finding our platform a good fit for your needs and appreciate you taking the time to leave a review.,The customer found the place to be a good fit for their needs.,2025-12-15 12:29:49,"Monitor for similar positive feedback.
+Analyze user's profile and activity for usage patterns.
+Investigate what the user finds valuable."
+"12:32:00, 15/12/2025",4,really nice.,Thank you so much for your positive feedback! We're glad to hear you had a nice experience with our platform.,The customer found the product or service pleasing.,2025-12-15 12:32:00,"Monitor review patterns for similar short, positive feedback.
+Tag the review for sentiment analysis training data.
+Investigate potential opportunities for proactive engagement."
+"12:32:08, 15/12/2025",3,really nice.,Thanks for your review! We're glad you found it really nice and appreciate you taking the time to share your experience.,The customer found the product/service to be pleasing.,2025-12-15 12:32:08,"Investigate sentiment behind the ""really nice"" comment.
+Monitor similar reviews for emerging trends.
+Improve the feedback collection process to gather more specific information."
+"13:02:43, 15/12/2025",4,really nice to be done.,Thank you for your positive feedback! We're so glad you had a nice experience and that you're satisfied with your purchase.,The customer expressed satisfaction with the completion of a task or service.,2025-12-15 13:02:43,"Monitor sentiment for similar reviews.
+Investigate root cause of sentiment.
+Consider further review solicitation."
+"13:07:18, 15/12/2025",2,Really could not see the hype behind this. It was okay but not really amazing to be honest.,Thanks for giving the product a try and sharing your honest feedback! We appreciate you letting us know it wasn't amazing for you and we'll use that to improve.,The customer found the product to be underwhelming and not living up to the hype.,2025-12-15 13:07:18,"Investigate sentiment
+Analyze hype
+Improve product"
+"13:17:27, 15/12/2025",4,de,"Thank you for your rating! We appreciate your feedback, even though it's brief, and we'll use it to help us improve.","The customer left a minimal review consisting only of ""de"".",2025-12-15 13:17:27,"Analyze keyword
+Check language
+Contact user"
+"13:41:48, 15/12/2025",5,Shahid,"Thank you, Shahid! We're so glad to hear you're happy with our platform. We appreciate your positive feedback!","The customer provided a one-word review: ""Shahid.""",2025-12-15 13:41:48,"Record sentiment
+Monitor keyword
+Thank user"
+"19:17:47, 15/12/2025",3,hey sounds good,"Thanks for your feedback! We appreciate you taking the time to leave a review, and we're glad to hear you think it sounds good.","The customer expressed brief, positive approval with ""hey sounds good.""",2025-12-15 19:17:47,"Ignore review
+Monitor volume
+Tag sentiment"
+"19:26:30, 15/12/2025",3,average,"Thank you for your feedback! We appreciate you taking the time to share your experience, and we're always striving to improve.",The customer found the product or service to be neither particularly good nor bad.,2025-12-15 19:26:30,"Analyze reviews
+Improve product
+Monitor sentiment"
+"22:47:28, 15/12/2025",5,Really good product,Thank you so much for your positive review! We're thrilled to hear you're happy with the product.,,,
