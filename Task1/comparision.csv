@@ -1,0 +1,4 @@
+Approach,Accuracy,JSON Validity (%)
+Simple,0.71717171,99.0
+Few-Shot,0.75,100.0
+Reasoning,0.86,100.0
